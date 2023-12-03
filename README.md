@@ -10,7 +10,7 @@ A [Hugo](https://gohugo.io/)-theme based on [Simple.css](https://simplecss.org/)
 ## Installation
 
 ```bash
-git submodule add https://github.com/maolonglong/hugo-simple.git themes/hugo-simple
+git submodule add https://github.com/Noirkelo/hugo-simple.git themes/hugo-simple
 ```
 
 ## Special Thanks 🎁
