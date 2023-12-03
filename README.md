@@ -1,12 +1,11 @@
 # Hugo ʕ•ᴥ•ʔ Simple
 
+Just try to support obsidian backlinks
+
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
 A [Hugo](https://gohugo.io/)-theme based on [Simple.css](https://simplecss.org/) and [Bear Blog](https://bearblog.dev).
 
-## Demo
-
-<https://maolonglong.github.io/hugo-simple/>
 
 ## Installation
 
